@@ -11115,5 +11115,6 @@ footer.footer .social-link:hover {
     img{
         width: 200px;
         border-radius: 50%;
+        max-width: 100%;
     }
 }
