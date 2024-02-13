@@ -11111,10 +11111,8 @@ footer.footer .social-link:hover {
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
-.masthead{
-    img{
-        width: 200px;
-        border-radius: 50%;
-        max-width: 100%;
-    }
+.masthead .img {
+  width: 200px;
+  border-radius: 50%;
+  max-width: 100%;
 }
